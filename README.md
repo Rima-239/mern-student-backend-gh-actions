@@ -1,1 +1,1 @@
-# mern-student-backend-gh-actions
+# aws-mern-backend
